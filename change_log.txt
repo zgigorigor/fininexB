@@ -2,7 +2,7 @@ Title: fininexB
 Author: Igor Bistrovic
 Company: B
 Project: - 
-Version: 0.0.7
+Version: 0.0.8
 UpdateNotes: -
 Change log: 
   20/04/02:   - created "README.md"
@@ -17,3 +17,8 @@ Change log:
                   - Controllers/fininexBController
                   - Views/fininexB/HomePage
               - changed App_Start/RouteConfig defaults : controller = "fininexB", action = "HomePage"
+              - fininexB:
+                  - added 2 controllers : Input, Wallet
+                  - Views/fininexB/Input
+                  - Views/fininexB/Wallet
+                  - added error message: "...isn't available at the moment. Please try later"

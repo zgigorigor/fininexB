@@ -12,5 +12,15 @@ namespace fininexB.Controllers
         {
             return View();
         }
+
+        public ActionResult Input()
+        {
+            return View();
+        }
+
+        public ActionResult Wallet()
+        {
+            return View();
+        }
     }
 }

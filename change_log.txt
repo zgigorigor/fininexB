@@ -1,0 +1,12 @@
+Title: Fininex B
+Author: Igor Bistrovic
+Company: -
+Project: - 
+Version: 0.0.1
+UpdateNotes: -
+Change log: 
+  20/04/02:   - created "README.md"
+              - created git repository
+              - created ".gitgnore" template:
+                  .vs                      
+  yy/mm/dd:   - info
